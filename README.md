@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/anush0508/anush0508/blob/main/images/Dark.svg">
+  <img alt="Anush Karthik S" src="https://github.com/anush0508/anush0508/blob/main/images/Light.svg">
+</picture>
